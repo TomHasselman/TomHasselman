@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](Chimp.gif)
+![](Hackerman.gif)
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
