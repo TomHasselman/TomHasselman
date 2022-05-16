@@ -1,13 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Tom 👋
+
+I'm a Cybersecurity student who loves learning how to break things in the spirit of making them more secure.
 
 ![](Hackerman.gif)
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+- 🔭 I’m currently a Cybersecurity major at West Virginia University.
+- 📚 I’m currently learning web security | XSS, SQL injection, CSRF, etc.
+- 👯 I am currently an intern at the Defense Information Systems Agency, DISA.
+- 📫 How to reach me:[Email](thasselm@mix.wvu.edu)
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+Inspired from [hazemessam](https://github.com/hazemessam)
