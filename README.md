@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/RyXVu4ZW454IM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![](chimp.gif)
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
