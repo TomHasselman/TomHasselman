@@ -11,4 +11,4 @@ I'm a Cybersecurity student who loves learning how to break things in the spirit
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/TomHasselman.png" alt="TryHackMe">
 
-Template inspired by [hazemessam](https://github.com/hazemessam)
+*Template inspired by* [hazemessam](https://github.com/hazemessam)
